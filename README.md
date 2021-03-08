@@ -9,8 +9,7 @@ Now the company needs your help in building a model to predict whether the perso
 - Information regarding holding policies of the customer
 - Recommended Policy Information
 
-![data dictionary](https://user-images.githubusercontent.com/51187449/110295605-51359000-8017-11eb-8f3d-4aed831a8dc7.PNG)
-
+![data dictionary](https://user-images.githubusercontent.com/51187449/110295896-ad001900-8017-11eb-8d58-022150f78574.PNG)
 
 
 ## Evaluation Metric
