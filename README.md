@@ -18,5 +18,3 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 After using several combinations of models, features, and hyperparameter tuning, an LGBM Classifier was used for predicting the values of Response column(Target Variable).
 
 - Since it was my first time participating in a hackathon with a classification problem, I read extensively and referred various articles and notebooks to boil down to this approach. Sharing my perspective/approach as an intermediate (for classification models), I believe that this notebook can serve as a starting point for beginners in their exploration of binary classification problems. 
-
-## A detailed approach to the problem has been shared in the PPT added to this repository.
